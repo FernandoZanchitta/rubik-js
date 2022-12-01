@@ -4,3 +4,17 @@ Notes
 tmp
 tmp*
 *.sh
+.cache/
+.parcel-cache/
+dist/
+# Dependency directories
+node_modules/
+# Optional npm cache directory
+.npm
+# dotenv environment variables file
+.env
+.env.test
+# Logs
+logs
+*.log
+npm-debug.log*
